@@ -1,0 +1,17 @@
+streamlit
+requests
+Pillow
+numpy
+plotly
+opencv-python
+trimesh
+pyvista
+stpyvista
+streamlit-javascript
+pybase64
+python-multipart
+streamlit
+requests
+pillow
+numpy
+opencv-python
